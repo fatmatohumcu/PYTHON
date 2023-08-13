@@ -1,0 +1,5 @@
+#Ekranda 5 defa isim yazdıran kod:
+
+
+for x in range(5):
+    print("Prenses Yazılımcı")
